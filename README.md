@@ -1,4 +1,4 @@
-# vue3-ts-webpack5
+# @vue-mfe/pro
 
 ## Project setup
 ```
